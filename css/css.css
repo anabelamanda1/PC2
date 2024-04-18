@@ -1,0 +1,26 @@
+
+.btnIcon i {
+    margin-right: 10px;
+}
+.btnIcon {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 10px;
+    background-color: cornflowerblue;
+}
+.collection .collection-item.avatar .title {
+    font-weight: 700;
+    font-size: 20px;
+    display: block;
+}
+
+
+.producto-imagen {
+    width: 40px; 
+    height: auto; /
+}
+
+.nav-wrapper {
+    background-color: cornflowerblue;
+}
+
